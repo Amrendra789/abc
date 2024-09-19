@@ -1,0 +1,21 @@
+[
+    {
+      "year": 2020,
+      "totalJobs": 5000,
+      "avgSalary": 100000,
+      "titles": [
+        { "title": "Machine Learning Engineer", "count": 2500 },
+        { "title": "Data Scientist", "count": 1500 }
+      ]
+    },
+    {
+      "year": 2021,
+      "totalJobs": 6000,
+      "avgSalary": 110000,
+      "titles": [
+        { "title": "Machine Learning Engineer", "count": 3000 },
+        { "title": "Data Scientist", "count": 2000 }
+      ]
+    }
+  ]
+  
